@@ -97,12 +97,6 @@ Given an RGB image, the model predicts a segmentation mask in which every pixel 
 
 ## 🚀 Getting Started
 
-Clone the repository:
-
-
-Repository: [People-Clothing-Segmentation](https://github.com/Ramin0036/People-Clothing-Segmentation)
-
-
 Download the dataset from Kaggle:
 
 https://www.kaggle.com/datasets/rajkumarl/people-clothing-segmentation
