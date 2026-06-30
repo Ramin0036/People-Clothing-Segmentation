@@ -213,7 +213,7 @@ If you find this project useful, consider giving it a ⭐ star on GitHub.
 
 ---
 
-# 👨‍💻 Ramin Allahverdizadeh
+# 👨‍💻Author: Ramin Allahverdizadeh
 
 Developed as a deep learning computer vision project using:
 
