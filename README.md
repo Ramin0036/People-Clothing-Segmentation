@@ -147,11 +147,12 @@ The project is developed using:
 
 Clone the repository:
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Ramin0036/people-clothing-segmentation)
+
 ```bash
 git clone https://github.com/Ramin0036/people-clothing-segmentation.git
 
 cd people-clothing-segmentation
-```
 
 Install required packages:
 
