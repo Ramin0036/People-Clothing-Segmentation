@@ -120,9 +120,6 @@ people-clothing-segmentation/
 ├── Notebooks/
 │   └── People_clothing_Segmentation.ipynb
 │
-├── models/
-│   └── unet_model.keras
-│
 ├── Requirements.txt
 └── README.md
 ```
@@ -216,7 +213,7 @@ If you find this project useful, consider giving it a ⭐ star on GitHub.
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Ramin Allahverdizadeh
 
 Developed as a deep learning computer vision project using:
 
