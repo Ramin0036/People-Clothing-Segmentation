@@ -1,10 +1,5 @@
 # 👕 People Clothing Segmentation using U-Net
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red)
-![Computer Vision](https://img.shields.io/badge/Task-Semantic%20Segmentation-green)
-
 A deep learning project for **human clothing semantic segmentation** using a custom **U-Net Encoder-Decoder architecture** implemented with **TensorFlow/Keras**.
 
 The model performs **pixel-level classification** to segment different clothing items and human body parts from images.
@@ -118,11 +113,11 @@ generates a probability map for **59 clothing and body-part classes**.
 ```
 people-clothing-segmentation/
 │
-├── dataset/
+├── Data/
 │   ├── images/
 │   └── masks/
 │
-├── notebooks/
+├── Notebooks/
 │   └── People_clothing_Segmentation.ipynb
 │
 ├── models/
