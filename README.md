@@ -4,6 +4,9 @@ A deep learning project for **human clothing semantic segmentation** using a cus
 
 The model performs **pixel-level classification** to segment different clothing items and human body parts from images.
 
+<img width="676" height="248" alt="clothes" src="https://github.com/user-attachments/assets/3fd6045e-0ced-4045-9bb8-22773508273c" />
+
+
 This project can be used in applications such as:
 
 - Virtual Try-On Systems
