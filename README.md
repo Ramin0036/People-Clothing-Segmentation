@@ -148,7 +148,7 @@ The project is developed using:
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/people-clothing-segmentation.git
+git clone https://github.com/Ramin0036/people-clothing-segmentation.git
 
 cd people-clothing-segmentation
 ```
@@ -157,55 +157,6 @@ Install required packages:
 
 ```bash
 pip install -r requirements.txt
-```
-
----
-
-# 🚀 Training
-
-Start model training:
-
-```bash
-python train.py
-```
-
-Training parameters can be adjusted:
-
-- Image size
-- Batch size
-- Number of epochs
-- Learning rate
-- Data augmentation settings
-
----
-
-# 🔍 Prediction
-
-To generate a segmentation mask:
-
-```bash
-python predict.py --image sample.jpg
-```
-
-The generated segmentation output will be saved in:
-
-```
-outputs/
-```
-
-Example pipeline:
-
-```
-Input Image
-      |
-      ↓
-Trained U-Net Model
-      |
-      ↓
-Predicted Mask
-      |
-      ↓
-Visualization / Output
 ```
 
 ---
