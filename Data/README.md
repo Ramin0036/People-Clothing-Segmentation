@@ -100,8 +100,7 @@ Given an RGB image, the model predicts a segmentation mask in which every pixel 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/Ramin0036/People-Clothing-Segmentation.git
 ```
 
 Download the dataset from Kaggle:
@@ -134,14 +133,9 @@ Run the training or inference notebook after updating the dataset path if necess
 
 - **Author:** Rajkumar Lakshmanamoorthy
 - **Platform:** Kaggle
-- **License:** CC0: Public Domain
 
 Dataset URL:
 
 https://www.kaggle.com/datasets/rajkumarl/people-clothing-segmentation
 
 ---
-
-## 🙏 Acknowledgements
-
-This project uses the **People Clothing Segmentation** dataset published on Kaggle. The dataset is intended for semantic segmentation research, computer vision experiments, and educational purposes.
