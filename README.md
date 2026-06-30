@@ -123,18 +123,12 @@ people-clothing-segmentation/
 │   └── masks/
 │
 ├── notebooks/
-│   └── training.ipynb
+│   └── People_clothing_Segmentation.ipynb
 │
 ├── models/
 │   └── unet_model.keras
 │
-├── src/
-│   ├── model.py
-│   ├── train.py
-│   ├── predict.py
-│   └── preprocessing.py
-│
-├── requirements.txt
+├── Requirements.txt
 └── README.md
 ```
 
